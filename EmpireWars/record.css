@@ -1,0 +1,12 @@
+table, tr, td {
+	border: 1px solid;
+}
+table {
+	margin: 10px;
+}
+.Neutral {
+	background-color: gray;
+}
+.extraInfo {
+	display: none;
+}
